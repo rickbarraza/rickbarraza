@@ -47,7 +47,7 @@ Another fundamental disruption is under way as we close out 2022, and I need a p
 #
 
 ### 📬 How to Reach Me
-If it's been a while, drop me a note here or on LinkedIn and let me know what you're up to these days!
+If it's been a minute, drop me a note here or on LinkedIn and let me know what you're up to these days!
 
 :octocat: 
 rkb
