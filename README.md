@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-Hi 👋, I'm Rick (aka Mr. Harfang) and I craft interactive experiences at the intersection of design and emerging technologies. Most of my day is spent working at Microsoft and tackling creative collaboration futures between humans and AI.
+Hi 👋, I'm Rick and I craft interactive experiences at the intersection of design and emerging technologies. Most of my day is spent working at Microsoft and tackling creative collaboration futures between humans and AI.
 
 Congrats on finding me again! I've been creative coding for over 25 years. But if you're a former student, colleague or aquaintance and wondering where I went, I've been pretty much 💀 on all social media since the mid 2010's (except for [LinkedIn](https://www.linkedin.com/in/rickbarraza/) ). Mr. Harfang is a relatively new alias I setup to firewall some brief, deep research into Metaverse/SocialMedia/Web3 shenanigans I got up to as the Design Lead for <i>Ethics & Society</i> at Microsoft. I guess the alias stuck, though, and I figured I'd keep a (smaller, boutique) footprint here for a while. 
 
